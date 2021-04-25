@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FilmEnthusiasts</string>
+
+    <string name="data_purchase_tickets">Purchase Tickets</string>
+    <string name="data_director">Directed by</string>
+    <string name="data_actors">Actors</string>
+    <string name="data_genre">Genre</string>
+    <string name="data_description">Description</string>
+    <string name="zocdoc">https://www.zocdoc.com/</string>
+    <string name="data_top_films">Top 10 Films</string>
+    <string name="data_all_films">All Films</string>
+    <string name="error_no_internet">Oops! We\'re unable to connect; please check your internet connection or try again later.</string>
+    <string name="error_not_found">Oops! An error occurred while processing your request. Please try again later.</string>
+
+    <!-- Plain text but would normally go through a process to obfuscate the key -->
+    <string name="token">3b502b3f-b1ff-4128-bd99-626e74836d9c</string>
+</resources>
